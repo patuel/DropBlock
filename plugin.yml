@@ -1,0 +1,8 @@
+name: DropBlock
+main: de.paeterick.dropblock.DropBlock
+version: 1.0
+author: Erquu
+
+commands:
+    db:
+        usage: Wrong parameter count! Use with /<command> on/off
